@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/invoke_fb_api.cs">
+    <Files>
+      <File FileName="Assets/invoke_fb_api.cs" Line="22" Column="3" />
+      <File FileName="Assets/Examples/Scripts/InteractiveConsole.cs" Line="75" Column="48" />
+      <File FileName="Assets/Facebook/Scripts/FB.cs" Line="149" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
